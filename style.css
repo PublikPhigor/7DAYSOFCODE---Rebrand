@@ -142,6 +142,15 @@ main h1 a:hover {
     text-align: center;
 }
 
+.navigator h3 {
+    font-size: 30px;
+}
+
+.navigator a {
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
 
 /* Footer */
 footer {
@@ -182,6 +191,24 @@ footer {
     .container .alpha {
         width: 50%;
         margin: auto;
+    }
+
+    #showcase h1 {
+        font-size: 60px;
+        margin-top: 60px;
+    }
+
+    #showcase p {
+        font-size: 25px;
+        margin-bottom: 40px;
+    }
+
+    .navigator h3 {
+        font-size: 20px;
+    }
+
+    .navigator a {
+        margin: 15px;
     }
 
 }
